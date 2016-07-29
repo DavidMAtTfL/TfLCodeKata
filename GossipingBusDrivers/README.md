@@ -1,3 +1,7 @@
+Gossiping Bus Drivers
+----------------------------------------------
+
+
 Bus drivers like to gossip, everyone knows that. And bus drivers can gossip when they end up at the same stop. So now we are going to calculate after how many stops all the bus drivers know all the gossips.
 You will be given a number of bus routes that the drivers follow. Each route is appointed to 1 driver. When 2 or more drivers are at the same stop (even if it is the start), they can exchange all the gossips they know. Each driver starts with one gossip.
 A route looks like this: 1 2 3 4 and is repeated over the whole day like this 1 2 3 4 1 2 3 4 1 2 3 ... If a driver starts and stops at the same stop then that is also repeated. (e.g. route: 1 2 3 1, day:1 2 3 1 1 2 3 1 1 2 ...)
