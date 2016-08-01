@@ -1,0 +1,13 @@
+{
+    "name": "cqrsjstest"
+  , "version": "1.0.0"
+  , "description": "tests for cqrs project"
+  , "author": "Michal Paszkiewicz"
+  , "engines": { "node": ">= 0.4.x" }
+  , "scripts": {
+    "test": "jasmine"
+  }
+  , "devDependencies": {
+    "jasmine": "~2.3.2"
+  }
+}

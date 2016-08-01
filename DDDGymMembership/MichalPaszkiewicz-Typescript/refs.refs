@@ -1,0 +1,7 @@
+projections <== framework
+domain <== framework
+eventreplayer <== framework, projections
+applicationservices <== framework, domain, projections
+
+//tests
+tests <== framework, projections, domain, applicationservices, eventreplayer
