@@ -1,0 +1,7 @@
+{
+	"compilerOptions":	{
+		"target": "es5",
+		"out": "../bin/@framework.js",
+		"sourceMap": false
+	}
+}
