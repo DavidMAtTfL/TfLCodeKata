@@ -34,3 +34,26 @@ For example, how much does this basket of books cost?
 1 copy of the fifth book
 
 Answer: 51.20 EUR
+
+------------------------------------------------------------------------------
+
+scenario 1
+----------
+If I buy 1 copy of book1, the total cost is 8 EUR
+
+scenario 2
+----------
+If I buy 1 copy of book1 and 1 copy of book2, I get a 5% discount (total 15.20 EUR)
+
+scenario 3
+----------
+If I buy 2 copies of book1, I don't get a discount (total 16 EUR)
+
+scenario 4
+----------
+If I buy 1 copy of book1, 1 copy of book2 and 1 copy of book3, I get a 10% discount (total 21.60 EUR)
+
+scenario 5
+----------
+If I buy 2 copies of book1, 2 copies of book2, and 1 copy of book3, I get a 10% discount for 3 books and a 
+5% discount for the remaining 2 books (total 36.8 EUR)
