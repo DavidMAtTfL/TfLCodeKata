@@ -1,0 +1,6 @@
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchant\bin\Debug\SockMerchant.exe.config
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchant\bin\Debug\SockMerchant.exe
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchant\bin\Debug\SockMerchant.pdb
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchant\obj\Debug\SockMerchant.csprojResolveAssemblyReference.cache
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchant\obj\Debug\SockMerchant.exe
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchant\obj\Debug\SockMerchant.pdb
