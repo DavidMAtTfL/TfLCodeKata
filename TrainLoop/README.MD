@@ -5,12 +5,9 @@ You have been tasked to help work on the latest train signalling system.
 
 Your train line is currently quite simple, only has uni-directional traffic flow and looks like this:
 
---1----2-->------3---->-----
-|                          4
-|                          |
-9                          |
-|                          5
-----8----7-----<---6---<----
+|--1----2-->------3---->---4-----5---|
+
+|--9--<--8----7-----<---6---<--------|
 
 Your society has not had funding in the arts sector for decades, so interesting station names are no longer common, and numbers are used to distinguish them instead.
 
