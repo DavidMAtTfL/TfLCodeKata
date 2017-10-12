@@ -1,0 +1,9 @@
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\bin\Debug\SockMerchantTest.dll
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\bin\Debug\SockMerchantTest.pdb
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\bin\Debug\SockMerchant.exe
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\bin\Debug\SockMerchant.pdb
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\obj\Debug\SockMerchantTest.csprojResolveAssemblyReference.cache
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\obj\Debug\SockMerchantTest.dll
+C:\Users\dmona\code\Katas\KataClub1\DMSockMerchant\SockMerchant\SockMerchantTest\obj\Debug\SockMerchantTest.pdb
