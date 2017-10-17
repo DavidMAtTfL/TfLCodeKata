@@ -11,16 +11,16 @@ cost and print it to the console.
 
 sample console output:
 
-\>Please enter a route number  
-\19  
-*>Total Cost: £1.50  
-*>Please enter a route number  
-*4  
-*>Total Cost: £3.00
-*>Please enter a route number
-*4
-*>Total Cost: £3.00
-*>Please enter a route number
+>Please enter a route number  
+19  
+>Total Cost: £1.50  
+>Please enter a route number  
+4  
+>Total Cost: £3.00  
+>Please enter a route number  
+4  
+>Total Cost: £3.00  
+>Please enter a route number  
 
 Part 2
 -------------------
@@ -29,24 +29,24 @@ extend your program so that it can calculate a fare for multiple cards, using a 
 
 sample console output:
 
-*>Please enter a card Id
-*>100000000
-*>Please enter a route number
-*19
-*>Card Id: 100000000, Total Cost: £1.50
-*>Please enter a card Id
-*>200000000
-*>Please enter a route number
-*4
-*>Card Id: 100000000, Total Cost: £1.50
-*>Card Id: 200000000, Total Cost: £1.50
-*>Please enter a card Id
-*>100000000
-*>Please enter a route number
-*4
-*>Card Id: 100000000, Total Cost: £3.00
-*>Card Id: 200000000, Total Cost: £1.50
-*>Please enter a route number
+>Please enter a card Id  
+>100000000  
+>Please enter a route number  
+19  
+>Card Id: 100000000, Total Cost: £1.50  
+>Please enter a card Id  
+>200000000  
+>Please enter a route number  
+4  
+>Card Id: 100000000, Total Cost: £1.50  
+>Card Id: 200000000, Total Cost: £1.50  
+>Please enter a card Id  
+>100000000  
+>Please enter a route number  
+4  
+>Card Id: 100000000, Total Cost: £3.00  
+>Card Id: 200000000, Total Cost: £1.50  
+>Please enter a route number  
 
 Part 3
 -------------------
