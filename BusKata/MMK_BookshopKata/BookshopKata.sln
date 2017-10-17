@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookshopKata", "BookshopKata\BookshopKata.csproj", "{3872D4BE-51C3-4222-90C5-B0C3785752FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookshopKataTests", "BookshopKataTests\BookshopKataTests.csproj", "{0EC3DEEC-B823-4AF5-9549-E645B9BC1D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3872D4BE-51C3-4222-90C5-B0C3785752FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3872D4BE-51C3-4222-90C5-B0C3785752FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3872D4BE-51C3-4222-90C5-B0C3785752FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3872D4BE-51C3-4222-90C5-B0C3785752FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC3DEEC-B823-4AF5-9549-E645B9BC1D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC3DEEC-B823-4AF5-9549-E645B9BC1D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC3DEEC-B823-4AF5-9549-E645B9BC1D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC3DEEC-B823-4AF5-9549-E645B9BC1D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7944E7F4-4D57-4747-91D2-BD88EA900307}
+	EndGlobalSection
+EndGlobal
