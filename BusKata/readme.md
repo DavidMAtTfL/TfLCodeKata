@@ -11,8 +11,8 @@ cost and print it to the console.
 
 sample console output:
 
-*>Please enter a route number
-*19
+\>Please enter a route number
+\19
 *>Total Cost: £1.50
 *>Please enter a route number
 *4
