@@ -1,0 +1,11 @@
+{
+  "name": "train",
+  "version": "1.0.0",
+  "description": "Train for trainloop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michal Paszkiewicz",
+  "license": "ISC"
+}
