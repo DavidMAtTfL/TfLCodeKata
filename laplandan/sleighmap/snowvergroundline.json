@@ -1,0 +1,33 @@
+[
+    {"name":"Imperial Scarf","connexions":[]},
+    {"name":"Chillburn High Road","connexions":[
+        "South Hamperstead"
+    ]},
+    {"name":"South Hamperstead","connexions":[
+        "Chillburn High Road", "Yuleston"
+    ]},
+    {"name":"Yuleston","connexions":[
+        "South Hamperstead"
+    ]},
+    {"name":"Snowballston Junction","connexions":[
+        "Giftbaggerston"
+    ]},
+    {"name":"Giftbaggerston","connexions":[
+        "Snowballston Junction", "Ho Ho Hoxton"
+    ]},
+    {"name":"Ho Ho Hoxton","connexions":[
+        "Giftbaggerston", "Shoreditch High Treats"
+    ]},
+    {"name":"Shoreditch High Treats","connexions":[
+        "Ho Ho Hoxton"
+    ]},
+    {"name":"Wreatherhithe","connexions":[
+        "Snowmanada Water"
+    ]},
+    {"name":"Snowmanada Water","connexions":[
+        "Wreatherhithe", "Turkey Quays"
+    ]},
+    {"name":"Turkey Quays","connexions":[
+        "Snowmanada Water"
+    ]}
+]

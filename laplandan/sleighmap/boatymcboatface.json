@@ -1,0 +1,23 @@
+[
+    {"name":"Imperial Scarf","connexions":[
+        "Westmanger"
+    ]},
+    {"name":"Westmanger","connexions":[
+        "Imperial Scarf", "Winterloo"
+    ]},
+    {"name":"Winterloo","connexions":[
+        "Westmanger", "Merriment"
+    ]},
+    {"name":"Merriment","connexions":[
+        "Winterloo", "Blackfirs"
+    ]},
+    {"name":"Blackfirs","connexions":[
+        "Merriment", "London Partridge"
+    ]},
+    {"name":"London Partridge","connexions":[
+        "Blackfirs", "Tower Goodwill"
+    ]},
+    {"name":"Tower Goodwill","connexions":[
+        "London Partridge"
+    ]}
+]
