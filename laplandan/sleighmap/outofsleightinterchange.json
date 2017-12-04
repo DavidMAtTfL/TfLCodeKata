@@ -1,0 +1,14 @@
+[
+    {"name":"Frank-incense","connexions":[
+        "Ornament"
+    ]},
+    {"name":"Ornament","connexions":[
+        "Frank-incense"
+    ]},
+    {"name":"Tower Goodwill","connexions":[
+        "Tower Gatesleigh"
+    ]},
+    {"name":"Tower Gatesleigh","connexions":[
+        "Tower Goodwill"
+    ]}
+]

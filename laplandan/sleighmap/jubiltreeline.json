@@ -1,0 +1,35 @@
+[
+    {"name":"Wish Cottage","connexions":[
+        "St. Joy to the World"
+    ]},
+    {"name":"St. Joy to the World","connexions":[
+        "Wish Cottage", "Caker Street"
+    ]},
+    {"name":"Caker Street","connexions":[
+        "St. Joy to the World", "Quality Street"   
+    ]},
+    {"name":"Quality Street","connexions":[
+        "Caker Street", "Evergreen Park"
+    ]},
+    {"name":"Evergreen Park","connexions":[
+        "Quality Street", "Westmanger"
+    ]},
+    {"name":"Westmanger","connexions":[
+        "Evergreen Park", "Winterloo"
+    ]},
+    {"name":"Winterloo","connexions":[
+        "Westmanger", "Snowflake"
+    ]},
+    {"name":"Snowflake","connexions":[
+        "Winterloo", "London Partridge"
+    ]},
+    {"name":"London Partridge","connexions":[
+        "Snowflake", "Hogmanay"   
+    ]},
+    {"name":"Hogmanay","connexions":[
+        "London Partridge", "Snowmanada Water"
+    ]},
+    {"name":"Snowmanada Water","connexions":[
+        "Hogmanay"
+    ]}
+]

@@ -1,0 +1,29 @@
+[
+    {"name":"Caker Street","connexions":[
+        "Great Port Street"
+    ]},
+    {"name":"Great Port Street","connexions":[
+        "Caker Street", "Yuleston Square"
+    ]},
+    {"name":"Yuleston Square","connexions":[
+        "Great Port Street", "We Three Kings Cross St. Pancras"
+    ]},
+    {"name":"We Three Kings Cross St. Pancras","connexions":[
+        "Yuleston Square", "Fairyngdon"
+    ]},
+    {"name":"Fairyngdon","connexions":[
+        "We Three Kings Cross St. Pancras", "Barbicandle"
+    ]},
+    {"name":"Barbicandle","connexions":[
+        "Fairyngdon", "Myrrhgate"
+    ]},
+    {"name":"Myrrhgate","connexions":[
+        "Barbicandle", "Giverpool Street"
+    ]},
+    {"name":"Giverpool Street","connexions":[
+        "Myrrhgate", "Goldgate"
+    ]},
+    {"name":"Goldgate","connexions":[
+        "Giverpool Street"
+    ]}
+]

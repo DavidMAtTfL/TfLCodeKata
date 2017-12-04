@@ -1,0 +1,50 @@
+[
+    {"name":"Mornington Present","connexions":[
+        "Yuleston"
+    ]},
+    {"name":"Yuleston","connexions":[
+        "Wise Men Street", "Mornington Present", "We Three Kings Cross St. Pancras"
+    ]},
+    {"name":"Wise Men Street","connexions":[
+        "Yuleston", "Scrooge Street"
+    ]},
+    {"name":"Scrooge Street","connexions":[
+        "Wise Men Street", "Tot 'n' Ham Court Road"
+    ]},
+    {"name":"Tot 'n' Ham Court Road","connexions":[
+        "Scrooge Street", "Lightster Square"
+    ]},
+    {"name":"Lightster Square","connexions":[
+        "Tot 'n' Ham Court Road", "Charing Frost"
+    ]},
+    {"name":"Charing Frost","connexions":[
+        "Lightster Square", "Merriment"
+    ]},
+    {"name":"Merriment","connexions":[
+        "Charing Frost", "Winterloo"
+    ]},
+    {"name":"Winterloo","connexions":[
+        "Merriment"
+    ]},
+    {"name":"We Three Kings Cross St. Pancras","connexions":[
+        "Yuleston", "Angel"
+    ]},
+    {"name":"Angel","connexions":[
+        "We Three Kings Cross St. Pancras", "Old St. Nick"
+    ]},
+    {"name":"Old St. Nick","connexions":[
+        "Angel", "Myrrhgate"
+    ]},
+    {"name":"Myrrhgate","connexions":[
+        "Old St. Nick", "Frank-incense"
+    ]},
+    {"name":"Frank-incense","connexions":[
+        "Myrrhgate", "London Partridge"
+    ]},
+    {"name":"London Partridge","connexions":[
+        "Frank-incense", "Decemberough"
+    ]},
+    {"name":"Decemberough","connexions":[
+        "London Partridge"
+    ]}
+]

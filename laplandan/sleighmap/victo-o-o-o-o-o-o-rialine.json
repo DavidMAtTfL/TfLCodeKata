@@ -1,0 +1,23 @@
+[
+    {"name":"We Three Kings Cross St. Pancras","connexions":[
+        "Yuleston"
+    ]},
+    {"name":"Yuleston","connexions":[
+        "We Three Kings Cross St. Pancras", "Wise Men Street"
+    ]},
+    {"name":"Wise Men Street","connexions":[
+        "Yuleston", "Boxing Day Circus"
+    ]},
+    {"name":"Boxing Day Circus","connexions":[
+        "Wise Men Street", "Evergreen Park"
+    ]},
+    {"name":"Evergreen Park","connexions":[
+        "Boxing Day Circus", "Victo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-oria"  
+    ]},
+    {"name":"Victo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-oria","connexions":[
+        "Evergreen Park", "Mistletoe"
+    ]},
+    {"name":"Mistletoe","connexions":[
+        "Victo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-oria"
+    ]}
+]

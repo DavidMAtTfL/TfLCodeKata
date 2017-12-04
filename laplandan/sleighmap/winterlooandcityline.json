@@ -1,0 +1,8 @@
+[
+    {"name":"Winterloo","connexions":[
+        "Frank-incense"
+    ]},
+    {"name":"Frank-incense","connexions":[
+        "Winterloo"
+    ]}
+]
