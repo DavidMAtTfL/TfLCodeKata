@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPAE", "MPAE\MPAE.csproj", "{B8C1DF84-BFD1-4D21-8E3B-DC784B007A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPAETests", "MPAETests\MPAETests.csproj", "{A9353A0F-60BC-49A4-82C2-C8AF03C17813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C1DF84-BFD1-4D21-8E3B-DC784B007A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C1DF84-BFD1-4D21-8E3B-DC784B007A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C1DF84-BFD1-4D21-8E3B-DC784B007A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C1DF84-BFD1-4D21-8E3B-DC784B007A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9353A0F-60BC-49A4-82C2-C8AF03C17813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9353A0F-60BC-49A4-82C2-C8AF03C17813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9353A0F-60BC-49A4-82C2-C8AF03C17813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9353A0F-60BC-49A4-82C2-C8AF03C17813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
