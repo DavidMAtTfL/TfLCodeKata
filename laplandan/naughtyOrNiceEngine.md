@@ -1,4 +1,4 @@
-The Naughty and nice engine.
+The Naughty or nice engine.
 
 Your task is to take an input stream of service bus messages from a queue, which contain users along with some details and a list of the naughty and nice things they have done.
 Your task is to assign lumps of coal and / or candy canes to these users, depending on how well they have behaved. 
@@ -22,7 +22,7 @@ for example, if someone has stolen a mince pie, but also volunteered at a soup k
 ,\"gender\":\"female\",
 
 \"location\":
-	{\"street\":\"2743 avenida de andalucía\",
+	{\"street\":\"2743 avenida de andalucÃ­a\",
 	\"city\":\"barcelona\",
 	\"postcode\":\"26559\"},
 
@@ -39,7 +39,7 @@ for example, if someone has stolen a mince pie, but also volunteered at a soup k
 
 "{\"name\":
 	{\"title\":\"mr\",
-	\"first\":\"célian\",
+	\"first\":\"cÃ©lian\",
 	\"last\":\"philippe\"}
 ,\"gender\":\"male\",
 
