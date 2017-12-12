@@ -1,0 +1,6 @@
+C:\Users\dmona\code\Katas\KataClub1\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\dmona\code\Katas\KataClub1\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\dmona\code\Katas\KataClub1\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\dmona\code\Katas\KataClub1\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\dmona\code\Katas\KataClub1\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\dmona\code\Katas\KataClub1\BookShop\BookShop\obj\Debug\BookShop.pdb
