@@ -14,6 +14,7 @@ If someone has done something naughty, but has then done something nice that is 
 for example, if someone has stolen a mince pie, but also volunteered at a soup kitchen, then these should cancel out.
 
 
+```
 "{\"name\":
 	{\"title\":\"mrs\",
 	\"first\":\"gloria\",
@@ -35,8 +36,14 @@ for example, if someone has stolen a mince pie, but also volunteered at a soup k
 	\"volunteered a soup kitchen\",
 	\"left a carrot out for rudolph\",
 	\"went to church\"]}"
-
-
+	
+Output
+{
+  name: "Gloria Parra",
+  lumpsOfCoal: 0,
+  candyCanes: 4
+}
+		
 "{\"name\":
 	{\"title\":\"mr\",
 	\"first\":\"célian\",
@@ -58,3 +65,11 @@ for example, if someone has stolen a mince pie, but also volunteered at a soup k
 \"Nice\":
 	[\"left a carrot out for rudolph\",
 	\"shouted yippe kayeeeh at all the right moments in die hard\"]}"
+
+Output:
+```
+{
+  name: "célian philippe",
+  lumpsOfCoal: 3,
+  candyCanes: 2
+}
