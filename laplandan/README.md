@@ -1,8 +1,18 @@
 # T Elf L
 
 ## Elf TP
------
+
+
 Based on http://assets.londonist.com/uploads/2014/12/xmas2014.jpg
+
+## The problems 
+
+[SRP - Santa's Route Planner](SRP.md)
+
+[MPAE - Mince Pie Allocation Engine](MPAE.md)
+
+
+
 
 ### Stops
 ---
